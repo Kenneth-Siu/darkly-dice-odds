@@ -1,0 +1,19 @@
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+section {
+    margin-right: 5rem;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td,
+th {
+    min-width: 3rem;
+    border: 1px solid lightgray;
+    padding: 0.2rem;
+}
